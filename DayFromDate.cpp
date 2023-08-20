@@ -1,5 +1,5 @@
-// Aim : To find the day on a given date.
-// Author : Kappeta Jaya Chandra Reddy
+// Aim: To find the day on a given date.
+// Author: Kappeta Jaya Chandra Reddy (Github Id: kjcreddy666)
 
 #include<iostream>
 using namespace std;
